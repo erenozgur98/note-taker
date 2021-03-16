@@ -36,7 +36,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation
 ---
-There is no installations to this project, you can see the repository and video of how to use it here.
+There is no installations to this project, you can see the repository here.
 
 See repository here: https://github.com/erenozgur98/note-taker
 
