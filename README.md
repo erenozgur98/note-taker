@@ -40,5 +40,5 @@ There is no installations to this project, you can see the repository and video 
 
 See repository here: https://github.com/erenozgur98/note-taker
 
-
+See deployed heroku here: https://boiling-lake-44798.herokuapp.com/
 
